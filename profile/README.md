@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner.jpg" width="640" alt="Seudrim — Ad Astra, Per Machinam" />
+<img src="./seudrim-mark-gold.png" width="104" alt="Seudrim" />
+
+# SEUDRIM
 
 ### Intelligence needs a bearing.
 
