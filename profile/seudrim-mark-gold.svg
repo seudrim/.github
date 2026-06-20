@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a6a30"></stop><stop offset="0.34" stop-color="#e8cf8c"></stop><stop offset="0.6" stop-color="#b88f49"></stop><stop offset="0.86" stop-color="#dcc07d"></stop><stop offset="1" stop-color="#9a763a"></stop></linearGradient></defs>
+  <circle cx="100" cy="100" r="98.7" fill="none" stroke="#bd9a55" stroke-width="2.6"></circle>
+  <circle cx="100" cy="100" r="83" fill="none" stroke="#bd9a55" stroke-width="1" opacity="0.55"></circle>
+  <rect x="98.6" y="21" width="2.8" height="10" fill="#bd9a55"></rect>
+  <rect x="98.6" y="169" width="2.8" height="10" fill="#bd9a55"></rect>
+  <rect x="169" y="98.6" width="10" height="2.8" fill="#bd9a55"></rect>
+  <rect x="21" y="98.6" width="10" height="2.8" fill="#bd9a55"></rect>
+  <polygon points="100.00,40.00 105.74,86.14 123.33,76.67 113.86,94.26 160.00,100.00 113.86,105.74 123.33,123.33 105.74,113.86 100.00,160.00 94.26,113.86 76.67,123.33 86.14,105.74 40.00,100.00 86.14,94.26 76.67,76.67 94.26,86.14" fill="url(#g)"></polygon>
+  <circle cx="100" cy="100" r="2.6" fill="#17140F" opacity="0.9"></circle>
+</svg>
