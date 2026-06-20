@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./seudrim-mark-gold.svg" width="92" alt="Seudrim" />
+<img src="./seudrim-mark-gold.png" width="92" alt="Seudrim" />
 
 # SEUDRIM
 
